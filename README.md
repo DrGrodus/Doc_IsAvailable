@@ -26,7 +26,6 @@ Ahora las citas tienen fecha y hora tienen los datos:
     Fecha y hora de la cita.
     Motivo de la cita.
 
-Este programa podrá se usado en cualquier equipo con Java instalado, ya que esta compilado en un archivo FAT JAR.
 ## Créditos
 
 Autor: DrGrodus
