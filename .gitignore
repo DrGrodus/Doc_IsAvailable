@@ -1,5 +1,6 @@
 *.class
 *.swp
+/Doc_IsAvailable/db
 /Doc_IsAvailable/nbproject/private/
 /Doc_IsAvailable/build
 /Doc_IsAvailable/dist/
